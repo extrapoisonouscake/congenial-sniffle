@@ -14,7 +14,16 @@ export default function ProjectCard({ description, src, href }) {
           </Link>
         </Box>
 
-        <Flex justify="center" align="center" px="calc(10% + 20px)" pt="0px" h={{ sm: '100%', lg: 'calc((100% - 80%) + 120px - 25px - 5%)' }}><Text align="center" fontSize={{ sm: '3xl', md: '1.4rem', lg: 'xl' }}>{description}</Text></Flex>
+        <Flex justify="center" align="center" px="calc(10% + 20px)" pt="0px" h={{ sm: '100%', lg: 'calc((100% - 80%) + 120px - 25px - 5%)' }}>
+          <Text
+            align="center"
+            fontSize={{
+              sm: '1.3rem', pr: '1.4rem', pre: '3xl', md: '1.4rem', lg: 'xl',
+            }}
+          >
+            {description}
+          </Text>
+        </Flex>
         <Box pos="absolute" bottom={0} left={0} _groupHover={{ transform: 'scale(0.8)', bottom: { sm: '-100%', lg: '-120px' } }} _groupFocus={{ transform: 'scale(0.8)', bottom: '-150px' }} transition="all .4s cubic-bezier(.645,.045,.355,1)" w="100%" h="100%"><Image borderRadius="35px" src={src} objectFit="cover" /></Box>
       </Box>
 

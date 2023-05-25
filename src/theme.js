@@ -74,6 +74,8 @@ const Link = defineStyleConfig({
 const theme = extendTheme({
   breakpoints: {
     sm: '0px',
+    pr: '400px',
+    pre: '500px',
     md: '670px',
     lg: '840px',
     xl: '1030px',
