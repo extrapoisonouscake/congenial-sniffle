@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22687916.css",
+    "main.js": "/static/js/main.4830e879.js",
+    "static/js/787.8631f09f.chunk.js": "/static/js/787.8631f09f.chunk.js",
+    "static/media/MabryPro-Regular.ttf": "/static/media/MabryPro-Regular.b867029db9eb660840ba.ttf",
+    "static/media/cookie.png": "/static/media/cookie.9b5fddf558f6387b12fa.png",
+    "static/media/2.png": "/static/media/2.896a176241275e6588be.png",
+    "static/media/1.png": "/static/media/1.ffe51913d89f2804e8fd.png",
+    "static/media/nodejs.svg": "/static/media/nodejs.502737ea1f44b9be4170cafd2bace4e7.svg",
+    "static/media/reactjs.svg": "/static/media/reactjs.6c1d44b8c59f0f72ff199a54ceed774c.svg",
+    "static/media/js.svg": "/static/media/js.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "index.html": "/index.html",
+    "static/media/figma.svg": "/static/media/figma.25abb591c3b89b3fa15743b91482f4a6.svg",
+    "static/media/arrow.svg": "/static/media/arrow.21880ee33c3cbabde106c0e63939b2c2.svg",
+    "main.22687916.css.map": "/static/css/main.22687916.css.map",
+    "main.4830e879.js.map": "/static/js/main.4830e879.js.map",
+    "787.8631f09f.chunk.js.map": "/static/js/787.8631f09f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22687916.css",
+    "static/js/main.4830e879.js"
+  ]
+}
